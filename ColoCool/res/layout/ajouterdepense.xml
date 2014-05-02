@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" xmlns:app="http://schemas.android.com/tools">
+
+    <AutoCompleteTextView
+        android:id="@+id/autoCompleteTextView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:text="Motif de la dépense" />
+
+    <EditText
+        android:id="@+id/EditText01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:text="Quoi" />
+
+    <AutoCompleteTextView
+        android:id="@+id/AutoCompleteTextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/editText1"
+        android:layout_alignBottom="@+id/editText1"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:text="00,00€" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/autoCompleteTextView1"
+        android:layout_marginTop="23dp"
+        android:layout_toLeftOf="@+id/AutoCompleteTextView01"
+        android:ems="10"
+        android:text="Combien" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/EditText02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/AutoCompleteTextView01"
+        android:layout_marginTop="24dp"
+        android:layout_toLeftOf="@+id/AutoCompleteTextView01"
+        android:ems="10"
+        android:text="Quand" />
+
+    <AutoCompleteTextView
+        android:id="@+id/AutoCompleteTextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/EditText02"
+        android:layout_alignBottom="@+id/EditText02"
+        android:layout_alignLeft="@+id/AutoCompleteTextView01"
+        android:ems="10"
+        android:text="Date de paiement" />
+
+    <EditText
+        android:id="@+id/EditText03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/EditText02"
+        android:layout_marginTop="29dp"
+        android:layout_toLeftOf="@+id/AutoCompleteTextView02"
+        android:ems="10"
+        android:text="Payé par" />
+
+    <AutoCompleteTextView
+        android:id="@+id/AutoCompleteTextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/EditText03"
+        android:layout_alignBottom="@+id/EditText03"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:text="Nom du participant" />
+
+    <EditText
+        android:id="@+id/EditText04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/EditText03"
+        android:layout_below="@+id/EditText03"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:text="Pour" />
+
+    <ExpandableListView
+        android:id="@+id/expandableListView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/AutoCompleteTextView03"
+        android:layout_alignTop="@+id/EditText04"
+        android:choiceMode="singleChoice"
+        app:listitem="@android:layout/simple_list_item_single_choice" >
+
+    </ExpandableListView>
+
+</RelativeLayout>

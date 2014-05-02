@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Balance" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button1"
+        android:layout_toLeftOf="@+id/ExpandableListView01"
+        android:ems="10"
+        android:text="Colocool" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/EditText03"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/button1"
+        android:ems="10"
+        android:text="Doit" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/editText1"
+        android:layout_marginBottom="42dp"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <ExpandableListView
+        android:id="@+id/expandableListView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editText3"
+        android:layout_below="@+id/editText1"
+        android:layout_toLeftOf="@+id/editText2" >
+    </ExpandableListView>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editText1"
+        android:layout_marginTop="149dp"
+        android:text="Comment Equilibrer" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editText3"
+        android:layout_below="@+id/editText2"
+        android:layout_toRightOf="@+id/expandableListView1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </ScrollView>
+
+    <ExpandableListView
+        android:id="@+id/ExpandableListView01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editText3"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/editText3"
+        android:layout_toRightOf="@+id/editText3" >
+
+    </ExpandableListView>
+
+    <EditText
+        android:id="@+id/EditText02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/editText3"
+        android:ems="10"
+        android:text="Colocool" />
+
+    <EditText
+        android:id="@+id/EditText03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/EditText02"
+        android:layout_alignBottom="@+id/EditText02"
+        android:layout_toRightOf="@+id/EditText02"
+        android:ems="10"
+        android:text="Devrait payer" />
+
+    <ExpandableListView
+        android:id="@+id/expandableListView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/EditText02"
+        android:layout_below="@+id/EditText02" >
+
+    </ExpandableListView>
+
+    <ExpandableListView
+        android:id="@+id/expandableListView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ExpandableListView01"
+        android:layout_alignTop="@+id/expandableListView2" >
+
+    </ExpandableListView>
+
+</RelativeLayout>

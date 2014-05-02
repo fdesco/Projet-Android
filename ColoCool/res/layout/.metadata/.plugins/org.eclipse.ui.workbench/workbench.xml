@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="2" version="2.0">
+<workbenchAdvisor/>
+<window height="728" maximized="true" width="1024" x="175" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="23"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipes.papyrus.menu.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="53" y="23"/>
+<coolItem id="org.eclipse.emf.facet.common.editor.actionSet" itemType="typeToolBarContribution" x="38" y="23"/>
+<coolItem id="org.eclipse.emf.facet.widgets.nattable.workbench.editor.NatTableEditor.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.papyrus.diagram.ui.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.papyrus.layouttool.toolbarlayout" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.papyrus.navigation.toolbars.navigationToolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.papyrus.readonly.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.papyrus.table.ui.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="53" y="23"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.topcased.requirement.core.mainToolbar" itemType="typeToolBarContribution" x="38" y="23"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="23"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.android.ide.eclipse.editors.CommonXmlEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1398074669090" focus="true" label="Workspace - TOPCASED AUI">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main.xml" partName="activity_main.xml" title="activity_main.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\activity_main.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/activity_main.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="creation.xml" partName="creation.xml" title="creation.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\creation.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/creation.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="liste.xml" partName="liste.xml" title="liste.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\liste.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/liste.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="menu.xml" partName="menu.xml" title="menu.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\menu.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/menu.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="rejoindre.xml" partName="rejoindre.xml" title="rejoindre.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\rejoindre.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/rejoindre.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="sinscrire.xml" partName="sinscrire.xml" title="sinscrire.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\sinscrire.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/sinscrire.xml"/>
+</editor>
+<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="test.xml" partName="test.xml" title="test.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\test.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/test.xml"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.android.ide.eclipse.editors.CommonXmlEditor" activePerspective="org.topcased.modeler.aui.AUIPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.topcased.ui.perspective.papyrus.internal.PapyrusModelerPerspective" id="org.topcased.ui.perspective.papyrus.PapyrusModelerPerspective" label="UML/SysML"/>
+<alwaysOnActionSet id="eclipsemonkeyAction.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.emf.facet.common.editor.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOffActionSet id="fr.tm.elibel.smartqvt.modulesmanager.getregisteredmodules.actionSet"/>
+<new_wizard_action id="org.eclipse.papyrus.wizards.createsysmlproject"/>
+<new_wizard_action id="org.eclipse.papyrus.wizards.1createproject"/>
+<new_wizard_action id="org.eclipse.papyrus.wizards.createsysmlmodel"/>
+<new_wizard_action id="org.eclipse.papyrus.wizards.createmodel"/>
+<new_wizard_action id="org.eclipse.rmf.reqif10.presentation.Reqif10ModelWizardID"/>
+<perspective_action id="org.topcased.modeler.uml.TopcasedModelerPerspective"/>
+<perspective_action id="org.topcased.modeler.aui.AUIPerspective"/>
+<perspective_action id="org.topcased.modeler.sam.SAMPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.topcased.requirement.core.upstreamView" removed="true"/>
+<view id="org.eclipse.papyrus.modelexplorer.modelexplorer" removed="true"/>
+<view id="org.topcased.requirement.core.currentView" removed="true"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.papyrus.documentation.view.DocView" removed="true"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.internal.introview"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.PropertySheet"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ResourceNavigator"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ContentOutline"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.topcased.requirement.core.upstreamView" label="Upstream Requirement"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@803f84" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.internal.introview" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.internal.introview" label="Welcome"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.26" ratioLeft="260" ratioRight="740" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.6589786" ratioLeft="400" ratioRight="207" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.papyrus.documentation.view.DocView" label="Documentation"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="folder" ratio="0.49917626" ratioLeft="303" ratioRight="304" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.papyrus.modelexplorer.modelexplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.papyrus.modelexplorer.modelexplorer" label="Model Explorer"/>
+<page content="org.topcased.requirement.core.currentView" label="Current Requirement"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.topcased.modeler.aui.perspective.AUIPerspective" id="org.topcased.modeler.aui.AUIPerspective" label="TOPCASED AUI"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="fr.tm.elibel.smartqvt.modulesmanager.getregisteredmodules.actionSet"/>
+<alwaysOnActionSet id="eclipsemonkeyAction.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.emf.facet.common.editor.actionSet"/>
+<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.project"/>
+<new_wizard_action id="org.topcased.ui.navigator.wizards.TopcasedProjectWizardID"/>
+<new_wizard_action id="org.eclipse.ui.newWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.topcased.editors.ocleditor.newFileWizard"/>
+<new_wizard_action id="org.topcased.jar.reverse.jar2umlwizard"/>
+<new_wizard_action id="org.topcased.modeler.aui.wizards.NewAUIDiagrams"/>
+<new_wizard_action id="org.eclipse.rmf.reqif10.presentation.Reqif10ModelWizardID"/>
+<perspective_action id="org.topcased.ui.perspective.papyrus.PapyrusModelerPerspective"/>
+<perspective_action id="org.topcased.modeler.uml.TopcasedModelerPerspective"/>
+<perspective_action id="org.topcased.modeler.sam.SAMPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.PropertySheet"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ResourceNavigator"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ContentOutline"/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.topcased.ui.navigator.view" appearance="2" expanded="2">
+<page content="org.topcased.ui.navigator.view" label="LabelNotFound"/>
+<page content="org.topcased.requirement.core.upstreamView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1ddc5f7" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2599411" ratioLeft="353" ratioRight="1005" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.659164" ratioLeft="410" ratioRight="212" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.topcased.modeler.documentation.DocView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="folder" ratio="0.5" ratioLeft="311" ratioRight="311" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.topcased.requirement.core.currentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.topcased.modeler.sam.perspective.SAMPerspective" id="org.topcased.modeler.sam.SAMPerspective" label="TOPCASED SAM"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOffActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.project"/>
+<new_wizard_action id="org.topcased.scripting.sam.sampleScriptsProject"/>
+<new_wizard_action id="org.eclipse.ui.newWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.topcased.modeler.sam.wizards.NewSAMDiagrams"/>
+<new_wizard_action id="org.eclipse.rmf.reqif10.presentation.Reqif10ModelWizardID"/>
+<perspective_action id="org.topcased.ui.perspective.papyrus.PapyrusModelerPerspective"/>
+<perspective_action id="org.topcased.modeler.uml.TopcasedModelerPerspective"/>
+<perspective_action id="org.topcased.modeler.aui.AUIPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.internal.introview"/>
+<fastViewBars/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.PropertySheet"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ResourceNavigator"/>
+<viewLayoutRec closeable="false" id="org.eclipse.ui.views.ContentOutline"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.topcased.ui.navigator.view" appearance="2" expanded="2">&#x0A;<page content="org.topcased.ui.navigator.view" label="LabelNotFound"/>
+<page content="org.topcased.requirement.core.upstreamView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@46469" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.internal.introview" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.internal.introview" label="Android IDE"/>
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2599411" ratioLeft="353" ratioRight="1005" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottom" ratio="0.659164" ratioLeft="410" ratioRight="212" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.topcased.modeler.documentation.DocView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="folder" ratio="0.5" ratioLeft="311" ratioRight="311" relationship="4" relative="topLeft">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.topcased.requirement.core.currentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/activity_main.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/sinscrire.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/rejoindre.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/creation.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/liste.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/menu.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/test.xml"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/activity_main.xml"/>
+</editors>
+<item historyLabel="activity_main.xml" index="0"/>
+<item historyLabel="sinscrire.xml" index="1"/>
+<item historyLabel="rejoindre.xml" index="2"/>
+<item historyLabel="activity_main.xml" index="0"/>
+<item historyLabel="creation.xml" index="3"/>
+<item historyLabel="liste.xml" index="4"/>
+<item historyLabel="menu.xml" index="5"/>
+<item historyLabel="rejoindre.xml" index="2"/>
+<item historyLabel="sinscrire.xml" index="1"/>
+<item historyLabel="test.xml" index="6"/>
+<item active="true" historyLabel="activity_main.xml" index="7"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="test.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\test.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/test.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="rejoindre.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\rejoindre.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/rejoindre.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="menu.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\menu.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/menu.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="liste.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\liste.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/liste.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="creation.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\creation.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/creation.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_main.xml" tooltip="C:\Users\Patrick\workspace\Projet\ColoCool\res\layout\activity_main.xml">
+<persistable uri="file:/C:/Users/Patrick/workspace/Projet/ColoCool/res/layout/activity_main.xml"/>
+</file>
+</mruList>
+</workbench>

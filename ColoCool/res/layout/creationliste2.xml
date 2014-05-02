@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="36dp"
+        android:ems="10"
+        android:text="Nom liste" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/AppBaseTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/editText1"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="16dp"
+        android:text="Fruits et légumes" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button4"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/button4"
+        android:layout_marginTop="30dp"
+        android:text="Petit dej et goûter" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button7"
+        android:layout_alignRight="@+id/button8"
+        android:layout_alignTop="@+id/button5"
+        android:text="Entretien" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button7"
+        android:layout_alignRight="@+id/button6"
+        android:layout_alignTop="@+id/button4"
+        android:text="Hygiène et pharmacie" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/button2"
+        android:layout_marginRight="16dp"
+        android:layout_toRightOf="@+id/button5"
+        android:text="Viandes et poissons" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/button7"
+        android:layout_marginTop="30dp"
+        android:text="Conserves" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button3"
+        android:layout_alignBottom="@+id/button3"
+        android:layout_alignLeft="@+id/button6"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="18dp"
+        android:text="Crèmerie" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/button6"
+        android:layout_marginTop="20dp"
+        android:text="Epicerie" />
+
+    <Button
+        android:id="@+id/button10"
+        style="@style/g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button9"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/button7"
+        android:text="Partager ma liste" />
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/AppTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button5"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/button5"
+        android:layout_alignTop="@+id/button10"
+        android:text="Valider ma liste" />
+
+</RelativeLayout>
