@@ -27,34 +27,12 @@
         android:id="@+id/expandableListView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/button1"
         android:layout_toLeftOf="@+id/editText1" >
 
     </ExpandableListView>
-
-    <EditText
-        android:id="@+id/EditText05"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/EditText04"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginBottom="20dp"
-        android:ems="10"
-        android:inputType="number"
-        android:text="00,00 €" />
-
-    <EditText
-        android:id="@+id/EditText04"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/EditText05"
-        android:layout_marginBottom="25dp"
-        android:layout_toRightOf="@+id/expandableListView1"
-        android:ems="10"
-        android:inputType="number"
-        android:text="00,00 €" />
 
     <EditText
         android:id="@+id/EditText02"
@@ -93,14 +71,35 @@
         <requestFocus />
     </EditText>
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="18dp"
+        android:layout_toLeftOf="@+id/EditText02"
+        android:text="Retour " />
+
     <EditText
         android:id="@+id/EditText03"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/EditText04"
-        android:layout_alignLeft="@+id/EditText02"
         android:layout_alignRight="@+id/EditText02"
-        android:layout_marginBottom="30dp"
+        android:layout_below="@+id/EditText02"
+        android:layout_marginTop="28dp"
+        android:layout_toRightOf="@+id/expandableListView1"
+        android:ems="10"
+        android:inputType="number"
+        android:text="00,00 €" />
+
+    <EditText
+        android:id="@+id/EditText04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/expandableListView1"
+        android:layout_alignLeft="@+id/EditText03"
+        android:layout_alignRight="@+id/EditText02"
+        android:layout_marginBottom="18dp"
         android:ems="10"
         android:inputType="number"
         android:text="00,00 €" />

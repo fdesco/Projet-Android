@@ -5,17 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <EditText
-        android:id="@+id/editText1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginLeft="15dp"
-        android:layout_marginTop="32dp"
-        android:ems="10"
-        android:text="Nom liste" />
-
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
@@ -103,5 +92,24 @@
         android:layout_alignRight="@+id/button8"
         android:layout_alignTop="@+id/button5"
         android:text="Entretien" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="Menu" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/button10"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="14dp"
+        android:ems="10"
+        android:text="Nom liste" />
 
 </RelativeLayout>

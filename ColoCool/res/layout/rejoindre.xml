@@ -5,15 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="40dp"
-        android:text="Créer ma Colocool" />
-
     <EditText
         android:id="@+id/editText1"
         android:layout_width="wrap_content"
@@ -24,14 +15,6 @@
         android:ems="10"
         android:singleLine="true"
         android:text="Rechercher Colocool" />
-
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/button2"
-        android:layout_alignRight="@+id/editText1"
-        android:text="Rejoindre une Colocool" />
 
     <EditText
         android:id="@+id/editText3"
@@ -55,5 +38,29 @@
         android:layout_marginTop="41dp"
         android:ems="10"
         android:text="Mot de passe" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Retour" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button2"
+        android:layout_alignRight="@+id/editText1"
+        android:text="Rejoindre une Colocool" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_centerHorizontal="true"
+        android:text="Créer ma Colocool" />
 
 </RelativeLayout>

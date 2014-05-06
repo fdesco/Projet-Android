@@ -26,12 +26,61 @@
          android:name="com.example.ColoCool.sinscrire"/>
         <activity
          android:name="com.example.ColoCool.rejoindre"/>
+         <activity
+         android:name="com.example.ColoCool.creationcolocool"/>
+          <activity
+         android:name="com.example.ColoCool.menu"/>
+          <activity
+         android:name="com.example.ColoCool.ajoutdepense"/>
+        <activity
+         android:name="com.example.ColoCool.ajoutstock"/>
+         <activity
+         android:name="com.example.ColoCool.consultationstock"/>
+          <activity
+         android:name="com.example.ColoCool.creationliste"/>
+          <activity
+         android:name="com.example.ColoCool.equilibre"/>
+        <activity
+         android:name="com.example.ColoCool.malistedecourses"/>
+         <activity
+         android:name="com.example.ColoCool.mesdepenses"/>
+          <activity
+         android:name="com.example.ColoCool.messtocks"/>
+          <activity
+         android:name="com.example.ColoCool.modificationliste"/>
+        <activity
+         android:name="com.example.ColoCool.modificationstock"/>
+         <activity
+         android:name="com.example.ColoCool.monprofil"/>
+         <activity
+         android:name="com.example.ColoCool.fruitsetlegumes"/>
+          <activity
+         android:name="com.example.ColoCool.epicerie"/>
+          <activity
+         android:name="com.example.ColoCool.conserves"/>
+        <activity
+         android:name="com.example.ColoCool.petitdejgouter"/>
+         <activity
+         android:name="com.example.ColoCool.viandesetpoissons"/>
+          <activity
+         android:name="com.example.ColoCool.cremerie"/>
+          <activity
+         android:name="com.example.ColoCool.hygieneetpharmacie"/>
+        <activity
+         android:name="com.example.ColoCool.entretien"/>
+         <activity
+         android:name="com.example.ColoCool.creationliste2"/>
+         <activity
+         android:name="com.example.ColoCool.retirerstock"/>
+          <activity
+         android:name="com.example.ColoCool.retirerstockscan"/>
+        <activity
+         android:name="com.example.ColoCool.retirerstockliste"/>
+        <activity
+         android:name="com.example.ColoCool.consultationliste"/>
+        <activity
+         android:name="com.example.ColoCool.consultationliste2"/>
+     
     </application>
-    
-    <dependency>
-		<groupId>mysql</groupId>
-		<artifactId>mysql-connector-java</artifactId>
-		<version>5.1.27</version>
-	</dependency>
 
 </manifest>

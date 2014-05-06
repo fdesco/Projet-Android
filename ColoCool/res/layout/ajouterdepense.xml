@@ -97,12 +97,31 @@
         android:ems="10"
         android:text="Pour" />
 
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:layout_toLeftOf="@+id/AutoCompleteTextView03"
+        android:text="Valider" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_toRightOf="@+id/EditText01"
+        android:text="Retour" />
+
     <ExpandableListView
         android:id="@+id/expandableListView1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/AutoCompleteTextView03"
-        android:layout_alignTop="@+id/EditText04"
+        android:layout_above="@+id/button1"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/EditText04"
         android:choiceMode="singleChoice"
         app:listitem="@android:layout/simple_list_item_single_choice" >
 
