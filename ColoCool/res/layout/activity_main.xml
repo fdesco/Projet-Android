@@ -6,7 +6,9 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context=".Main" >
+    tools:context=".Main" 
+    style="@style/AppTheme">
+    
 
     <Button
         android:id="@+id/button2"
@@ -34,10 +36,12 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="42dp"
         android:ems="10"
-        android:inputType="textPassword" />
+        android:inputType="textPassword"
+        android:text="mot de passe" />
 
     <EditText
         android:id="@+id/editText2"
+         style="@style/AppTheme"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/EditText01"
@@ -46,6 +50,6 @@
         android:layout_marginBottom="26dp"
         android:ems="10"
         android:inputType="textEmailAddress"
-        android:text="Mail" />
+        android:text="login" />
 
 </RelativeLayout>

@@ -3,7 +3,8 @@
     android:id="@+id/RelativeLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical" 
+    style="@style/AppTheme">
 
     <EditText
         android:id="@+id/editText1"
@@ -97,7 +98,7 @@
 
     <Button
         android:id="@+id/button10"
-        style="@style/g"
+        style="@style/AppBaseTheme"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/button9"
