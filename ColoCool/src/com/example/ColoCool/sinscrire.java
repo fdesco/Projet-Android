@@ -1,0 +1,33 @@
+package com.example.ColoCool;
+
+
+import com.example.projet.R;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+
+public class sinscrire extends Activity {
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState){
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.sinscrire);
+		final Button creerutil = (Button) findViewById(R.id.button1);
+		creerutil.setOnClickListener(new OnClickListener(){
+			@Override
+			public void onClick(View v) {
+				startActivity(new Intent(sinscrire.this,Main.class));
+	}});
+		Button retour = (Button) findViewById(R.id.button2);
+		retour.setOnClickListener(new OnClickListener(){
+			@Override
+			public void onClick(View v) {
+				startActivity(new Intent(sinscrire.this,Main.class));
+	}});
+	}
+}
+
